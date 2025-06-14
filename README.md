@@ -15,3 +15,8 @@ Open `index.html` in a WebGPU compatible browser (e.g. Chrome Canary with WebGPU
 ## Notes
 
 This is an early prototype with minimal features to get WebGPU up and running.
+
+## Deployment
+
+This repository uses GitHub Actions to automatically deploy the site to GitHub Pages whenever changes are pushed to the `main` branch.
+
