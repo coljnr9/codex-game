@@ -1,0 +1,13 @@
+{
+  "name": "codex-game",
+  "version": "1.0.0",
+  "description": "This project is a basic framework for a web-based world explorer game using WebGPU. The goal is to render a cute environment with realistic water simulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
